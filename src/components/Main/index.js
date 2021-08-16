@@ -1,3 +1,5 @@
+import "../../css/main.css";
+
 import Nav from "./components/Nav";
 import Article from "./components/Article";
 

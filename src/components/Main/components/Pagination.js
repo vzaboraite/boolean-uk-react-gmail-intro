@@ -1,3 +1,5 @@
+import "../../../css/pagination.css";
+
 function Pagination() {
   return (
     <div>

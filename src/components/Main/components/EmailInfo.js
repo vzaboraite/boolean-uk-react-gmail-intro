@@ -1,3 +1,5 @@
+import "../../../css/emailInfo.css";
+
 import SenderInfo from "./SenderInfo";
 import UserInfo from "./UserInfo";
 

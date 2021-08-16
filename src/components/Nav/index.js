@@ -1,3 +1,5 @@
+import "../../css/nav.css";
+
 import InboxList from "./components/InboxList";
 
 function Nav() {

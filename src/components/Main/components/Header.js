@@ -1,3 +1,5 @@
+import "../../../css/emailContentHeader.css";
+
 import Avatar from "./Avatar";
 import DateInfo from "./DateInfo";
 import EmailActionIcons from "./EmailActionIcons";

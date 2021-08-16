@@ -1,3 +1,5 @@
+import "../../../css/headerLeftMenu.css";
+
 function LeftMenu() {
   return (
     <div className="left-menu">
